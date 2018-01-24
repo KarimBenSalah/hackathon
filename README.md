@@ -27,3 +27,4 @@
 * Pay using a smart wallet or using money
 * Your medical records are always close and authentic
 
+good luck
